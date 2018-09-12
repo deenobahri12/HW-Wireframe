@@ -1,0 +1,91 @@
+.head {
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+    width: 960px;
+}
+
+
+.nav{
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+    width: 960px;
+}
+
+
+
+.aside {
+    background: #ebebeb;
+    height: 260px;
+    width: 440px;
+    text-align: center;
+    float: right;
+}
+
+.section{
+    background: #ebebeb;
+    float: left;
+    height: 260px;
+    width: 460px;
+    text-align: center;
+}
+.art{
+    color: #ebebeb;
+    background: #777;
+    width:435px;
+    align-content: space-between;
+    position: fixed;
+}
+
+.foot{
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+    width: 960px;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 71.5%;
+    background-color: #ebebeb;
+    text-align: center;
+}
+
+
+body {
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
